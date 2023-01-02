@@ -21,6 +21,7 @@ public class C05_WhileLoop {
                 System.out.println("Bu kadar sayi yeter. Toplamlari " + toplam + " oldu");
                 break;
             }
+
         }
     }
 }
